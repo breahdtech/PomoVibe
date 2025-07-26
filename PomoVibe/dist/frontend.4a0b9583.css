@@ -1,0 +1,29 @@
+.timer-container {
+  text-align: center;
+  background-color: #f9f9f9;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+}
+
+#timer {
+  margin-top: 20px;
+  font-size: 48px;
+}
+
+input, button {
+  margin-top: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+#settings {
+  transition: opacity .3s;
+}
+
+.hidden {
+  display: none;
+}
+/*# sourceMappingURL=frontend.4a0b9583.css.map */
